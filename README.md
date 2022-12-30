@@ -6,7 +6,7 @@
   
   :mortar_board: <strong>Graduando em Ciência e Tecnologia na UFBA</strong>
   
-  🙋🏾‍♂️ **Trainee da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
+  🙋🏾‍♂️ **Assesor na Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
  
 ## <strong>Ferramentas de Conhecimento
    
