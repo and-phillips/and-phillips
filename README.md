@@ -4,9 +4,8 @@
 
 ## <strong>Sobre Mim
   
-  :mortar_board: <strong>Graduando em Ciência e Tecnologia na UFBA</strong>
+  :mortar_board: <strong>Graduado em Ciência e Tecnologia na UFBA</strong>
   
-  🙋🏾‍♂️ **Assesor na Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
  
 ## <strong>Ferramentas de Conhecimento
    
